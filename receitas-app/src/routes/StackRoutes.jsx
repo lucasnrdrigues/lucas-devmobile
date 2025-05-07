@@ -10,7 +10,7 @@ const StackRoutes = () => {
     <Stack.Navigator
       initialRouteName="Home"
       screenOptions={{
-        headerStyle: { backgroundColor: '#000000' },
+        headerStyle: { backgroundColor: '#FF0000' },
         headerTintColor: '#ffffff',
         headerTitleStyle: { fontWeight: 'bold' },
       }}

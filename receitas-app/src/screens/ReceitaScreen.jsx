@@ -41,7 +41,7 @@ const ReceitaScreen = () => {
 const styles = StyleSheet.create({
   container: {
     padding: 16,
-    backgroundColor: '#000000',
+    backgroundColor: '#FF0000',
   },
   image: {
     width: '100%',
